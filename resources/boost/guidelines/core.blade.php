@@ -4,8 +4,9 @@ You are writing NativePHP implementation plans. Plans must be specific enough
 that an implementing agent can write code without making decisions.
 
 **Start here**: Read
-`/vendor/eloquage/laravel-nativephp-boost/resources/markdown/planning/overview.md` for plan format,
-required sections, and what to clarify with the user before planning.
+`vendor/eloquage/laravel-nativephp-boost/resources/markdown/planning/overview.md`
+from the project root for the plan format, required sections, and questions to
+clarify before planning.
 
 ### Planning Guides
 

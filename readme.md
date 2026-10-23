@@ -1,7 +1,15 @@
 # NativePHP Boost
 
+![NativePHP Boost](art/banner.png)
+
 **A Laravel Boost extension that helps AI agents produce accurate, detailed
 implementation plans for NativePHP desktop applications.**
+
+## Requirements
+
+- PHP 8.2 or later
+- Laravel Boost 1.8 or 2.x
+- Filament 5
 
 ## Setup
 
@@ -41,8 +49,8 @@ The main menu should have File, Edit, and View options. The system tray
 icon should show a context menu with quick actions.
 ```
 
-The agent will produce a detailed specification document ready for direct
-implementation, no guessing required.
+The agent will produce a specification for implementation. The planning guide
+asks for clarification when requirements leave important choices open.
 
 ## What's Included
 
